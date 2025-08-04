@@ -42,3 +42,7 @@ This is a simple mobile app built using Flutter for the OoNt Take-Home Assignmen
 git clone https://github.com/ArbabShujaat/Mini-Order-Tracker-App.git
 cd Mini-Order-Tracker-App
 ```
+
+### Demo Video
+
+https://github.com/user-attachments/assets/4a26ff7d-5485-48d7-8607-e464b44bd44f
